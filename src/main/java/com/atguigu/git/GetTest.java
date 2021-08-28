@@ -7,5 +7,7 @@ public class GetTest {
         System.out.println("hello git3");
         System.out.println("hello git3");
         System.out.println("push github");
+        System.out.println("pull idea")
+        
     }
 }
